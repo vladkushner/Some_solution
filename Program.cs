@@ -7,6 +7,7 @@ namespace Some_Solution
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Makhail!");
         }
     }
 }
