@@ -8,6 +8,8 @@ namespace Some_Solution
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Makhail!");
+            Console.WriteLine("Hello Vlad!");
+
         }
     }
 }
